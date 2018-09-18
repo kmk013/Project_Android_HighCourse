@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //high
+    <string-array name="startyear">
+        <item>2015</item>
+        <item>2014</item>
+        <item>2013</item>
+        <item>2012</item>
+        <item>2011</item>
+        <item>2010</item>
+        <item>2009</item>
+        <item>2008</item>
+    </string-array>
+    
+    <string-array name="method">
+        <item>일반전형</item>
+        <item>특별전형</item>
+    </string-array>
+
+    <string-array name="later">
+        <item>진학</item>
+        <item>취업</item>
+    </string-array>
+
+    //middle
+    <string-array name="favor">
+        <item>공업</item>
+        <item>경영사무</item>
+        <item>가정보건복지</item>
+        <item>산업</item>
+        <item>정보통신산업</item>
+        <item>디자인</item>
+        <item>문화레저산업</item>
+        <item>기타</item>
+    </string-array>
+
+    <string-array name="school">
+        <item>특성화고</item>
+        <item>마이스터고</item>
+    </string-array>
+
+    //middle_about
+    <string-array name="interest">
+        <item>공업</item>
+        <item>상업</item>
+        <item>가사</item>
+    </string-array>
+    
+    <string-array name="live">
+        <item>강남구</item>
+        <item>강동구</item>
+        <item>강북구</item>
+        <item>강서구</item>
+        <item>관악구</item>
+        <item>광진구</item>
+        <item>구로구</item>
+        <item>금천구</item>
+        <item>노원구</item>
+        <item>도봉구</item>
+        <item>동대문구</item>
+        <item>동작구</item>
+        <item>마포구</item>
+        <item>서대문구</item>
+        <item>서초구</item>
+        <item>성동구</item>
+        <item>성북구</item>
+        <item>송파구</item>
+        <item>양천구</item>
+        <item>영등포구</item>
+        <item>용산구</item>
+        <item>은평구</item>
+        <item>종로구</item>
+        <item>중구</item>
+        <item>중랑구</item>
+    </string-array>
+    
+    <string-array name="gender">
+        <item>남여공학</item>
+        <item>남</item>
+        <item>여</item>
+    </string-array>
+
+    <string-array name="search">
+        <item>허용</item>
+        <item>비허용</item>
+    </string-array>
+
+</resources>
